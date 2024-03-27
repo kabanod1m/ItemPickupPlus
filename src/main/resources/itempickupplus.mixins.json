@@ -4,6 +4,10 @@
   "package": "org.winglessbirds.itempickupplus.mixin",
   "compatibilityLevel": "JAVA_17",
   "mixins": [
+    "ItemEntityMixin",
+    "PlayerEntityMixin"
+  ],
+  "server": [
   ],
   "client": [
   ],

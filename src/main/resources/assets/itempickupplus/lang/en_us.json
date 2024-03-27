@@ -1,0 +1,19 @@
+{
+  "text.autoconfig.itempickupplus.title": "ItemPickupPlus Config",
+  "text.autoconfig.itempickupplus.option.modEnabled": "Enable mod",
+  "text.autoconfig.itempickupplus.option.pickupRange": "Pick up range",
+  "text.autoconfig.itempickupplus.option.onlyWhenSneaking": "Only when sneaking",
+  "text.autoconfig.itempickupplus.option.noDropDelay": "No pick up delay",
+  "text.autoconfig.itempickupplus.option.onlyEmptyHand": "Need empty hand",
+  "text.autoconfig.itempickupplus.option.displayHud": "Display tooltip",
+  "text.autoconfig.itempickupplus.option.hudOffsetX": "Tooltip X offset",
+  "text.autoconfig.itempickupplus.option.hudOffsetY": "Tooltip Y offset",
+  "text.autoconfig.itempickupplus.option.displayHudInWorld": "(NOT IMPLEMENTED YET)Tooltip over item instead",
+  "category.itempickupplus.pickup": "ItemPickupPlus Pick Up",
+  "category.itempickupplus.drop": "ItemPickupPlus Drop",
+  "key.itempickupplus.pickupmain": "Pick Up",
+  "key.itempickupplus.pickupoff": "Pick Up Wtth Offhand",
+  "key.itempickupplus.dropoff": "Drop Offhand Item",
+  "gui.itempickupplus.tooltip.pickup_main": "Pick up",
+  "gui.itempickupplus.tooltip.pickup_off": "Pick up to offhand"
+}
