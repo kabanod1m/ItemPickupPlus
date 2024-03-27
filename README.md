@@ -17,4 +17,4 @@ The mod can be configured from within the file ".minecraft/config/itempickupplus
 * Items cannot be picked up through walls (but this check is only performed on the client)
 
 ### License
-Minepickup is licensed under MIT.
+ItemPickupPlus is licensed under MIT.
